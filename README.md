@@ -1,16 +1,2 @@
-# light_and_dark_mode
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flut_light](https://github.com/cengizhankkaya/Flutter_Light_Dark_Background/assets/92298156/04284f3f-9ffe-4421-97d8-61cb71ce6ab0)
+![flut_dark](https://github.com/cengizhankkaya/Flutter_Light_Dark_Background/assets/92298156/a1e5fa32-06e8-4034-bfa4-1ddeead6df07)
